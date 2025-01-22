@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Luxembourg, since 2023
+* Doctoral Researcher (PhD Student) in Computer Science, University of Luxembourg, since 2023
 * M.S. in Software Engineering, Fudan University, 2021
 * B.S. in Software Engineering, Fudan University, 2018
 
